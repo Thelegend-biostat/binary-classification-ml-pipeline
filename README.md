@@ -65,6 +65,11 @@ binary-classification-ml-pipeline/
 | L1 Logistic | 0.9912 | 0.9524 | 0.705 |
 | No Penalty | 0.9909 | 0.9573 | 0.675 |
 
+
+### ROC Curve (L1 Model)
+
+![ROC Curve](reports/lasso/roc_curve.png)
+
 ### Key Observations
 
 - Both models achieve near-identical discrimination performance.
