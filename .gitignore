@@ -8,3 +8,4 @@ reports/*
 !reports/lasso/roc_curve.png
 !reports/baseline/feature_importance.png
 !reports/baseline/roc_curve.pngREADME.html
+data/*.csv
