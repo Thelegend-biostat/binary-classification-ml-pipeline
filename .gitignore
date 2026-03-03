@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv
+reports/*
+!reports/lasso/feature_importance.png
+!reports/lasso/roc_curve.png
+!reports/baseline/feature_importance.png
+!reports/baseline/roc_curve.png
