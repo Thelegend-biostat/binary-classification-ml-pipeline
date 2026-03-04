@@ -19,6 +19,7 @@ The goal is to show how to build a clean, extensible ML workflow suitable for pr
 
 ---
 
+```
 ## Project Structure
 
 binary-classification-ml-pipeline/
@@ -37,7 +38,7 @@ binary-classification-ml-pipeline/
 ├── lasso/
 └── baseline/
 
-
+```
 
 ---
 
